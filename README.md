@@ -3,9 +3,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/neovdn/neovdn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=neovdn&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/neovdn/neovdn/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/neovdn/neovdn/languages-output/languages.svg?locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
